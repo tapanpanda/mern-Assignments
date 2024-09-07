@@ -1,0 +1,14 @@
+.todo-item span {
+  font-size: 1.2rem;
+  cursor: pointer;
+  flex-grow: 1;
+}
+
+.todo-item button {
+  background-color: #ff4d4d;
+}
+
+.todo-item button:hover {
+  background-color: #e60000;
+}
+
